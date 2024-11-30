@@ -4,7 +4,6 @@ import socket
 import sys
 import time
 import traceback
-
 import requests
 import urllib3
 from colr import color as colr
